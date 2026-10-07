@@ -5,3 +5,8 @@ data prep (how this dataset became `phishing_urls.csv`)
 * dropped all columns except URL and label
 * reversed label column (in this dataset `1` indicates real url and `0` indicates phising url -> `0` for real url,
 `1` for phishing url)
+
+
+**Resource Credits:**
+Pandas Cheat Sheet: https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+Scikit-learn Cheat Sheet: https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf 
