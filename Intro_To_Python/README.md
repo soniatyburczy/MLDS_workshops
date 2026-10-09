@@ -1,6 +1,5 @@
 # Intro to Python Workshop
 
-Welcome to the **Intro to Python Workshop**!
 In this workshop, you'll learn the fundamentals of Python programming, from basic data types to functions and dictionaries, and write your own Python code **directly in your browser** using [Google Colab](https://colab.research.google.com/).
 
 ---
