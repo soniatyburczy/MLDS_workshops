@@ -95,3 +95,10 @@ By the end of this workshop, you will:
 - Be able to write programs that make decisions and repeat actions.
 - Be able to write your own functions and work with lists and dictionaries.
 - Have a strong foundation for exploring more advanced topics like libraries and data analysis.
+
+---
+
+## Additional Resources
+- https://introductorypython.github.io/docs/index.html
+- https://gto76.github.io/python-cheatsheet/
+- https://github.com/vinta/awesome-python
