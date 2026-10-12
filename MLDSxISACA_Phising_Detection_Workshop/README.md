@@ -79,16 +79,6 @@ In this workshop, you'll turn the red flags security teams look for into numbers
 
 ---
 
-## Requirements
-
-- A Google account.
-- Internet access.
-- Basic Python knowledge (variables, functions, loops).
-- Some pandas experience helps, but isn't required.
-- No prior machine learning experience needed!
-
----
-
 ## About the Dataset
 
 `phishing_urls.csv` is a sample of the [PhiUSIIL Phishing URL dataset](https://www.kaggle.com/datasets/kaggleprollc/phishing-url-websites-dataset-phiusiil). It has two columns:
