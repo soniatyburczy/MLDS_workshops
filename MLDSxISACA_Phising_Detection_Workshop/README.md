@@ -1,4 +1,5 @@
-# Phishing URL Detection Workshop (MLDS × ISACA)
+# MLDS × ISACA 
+## Phishing URL Detection w/ Logistic Regression
 
 In this workshop, you'll turn the red flags security teams look for into numbers a model can learn from, then train a **logistic regression** model that estimates the probability a URL is a phishing link. Everything runs **directly in your browser** using [Google Colab](https://colab.research.google.com/).
 
@@ -100,11 +101,3 @@ By the end of this workshop, you will:
 - Know why accuracy alone can be misleading, and how to use precision, recall, and the confusion matrix instead.
 - Understand that the decision threshold is a choice with real trade-offs.
 - See how a simple model fits into a real phishing defense, and why attackers adapting means detectors need constant updating.
-
----
-
-## Resource Credits
-
-- Dataset: [PhiUSIIL Phishing URL Dataset (Kaggle)](https://www.kaggle.com/datasets/kaggleprollc/phishing-url-websites-dataset-phiusiil)
-- Pandas Cheat Sheet: https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
-- Scikit-learn Cheat Sheet: https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf

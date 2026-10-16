@@ -21,7 +21,6 @@ Each workshop folder contains:
 - **Workshop Notebook (`.ipynb`)**: A Jupyter Notebook with explanations, code, and exercises.
 - **Solutions Notebook (`.ipynb`)**: Worked solutions to the exercises.
 - **Datasets (`.csv`)**: Sample data used for hands-on learning.
-- **Resources & Readings**: Additional materials to reinforce learning.
 
 ### Topics Covered
 - **Python Fundamentals**: Types, syntax, functions, loops, and core data structures.
@@ -43,6 +42,25 @@ All workshops are designed to run in **[Google Colab](https://colab.google/)**.
     from google.colab import files
     uploaded = files.upload()
 ```
+
+---
+
+## Resources
+
+### Cheat Sheets
+Located in [`Cheat_Sheets/`](Cheat_Sheets/):
+- **Pandas Cheat Sheet**, by the pandas development team: [source](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+- **Matplotlib Cheat Sheet**, by the Matplotlib development team: [source](https://matplotlib.org/cheatsheets/)
+- **Scikit-learn Cheat Sheet**, by The Coatless Professor: [source](https://blog.thecoatlessprofessor.com/cheatsheets/python/scikit-learn/)
+
+### Official Documentation
+- [Python Tutorial](https://docs.python.org/3/tutorial/)
+- [Pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html)
+- [Matplotlib Tutorials](https://matplotlib.org/stable/tutorials/index.html)
+- [Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html)
+- [Scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html)
+
+Dataset sources are credited in each workshop's own README.
 
 ---
 
