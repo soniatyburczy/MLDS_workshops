@@ -67,9 +67,9 @@ Dataset sources are credited in each workshop's own README.
 ## AI Transparency Statement
 
 Generative AI tools were used in developing some of the materials in this repository. AI assistance was used for:
-- [Drafting or refining explanatory text in notebooks and slides]
-- [Generating or debugging example code]
-- [Creating or cleaning sample datasets]
+- Drafting or refining explanatory text in notebooks and slides
+- Generating or debugging example code
+- Creating or cleaning sample datasets
 
 All AI-assisted content was reviewed, edited, and tested by the workshop team, who take full responsibility for its accuracy. Workshop design, topic selection, and teaching decisions are our own.
 
