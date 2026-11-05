@@ -27,7 +27,8 @@ Each workshop folder contains:
 - **Data Visualization**: Creating and customizing charts with Matplotlib and Seaborn.
 - **Data Wrangling**: Cleaning and manipulating data with Pandas.
 - **Exploratory Data Analysis (EDA)**: Identifying trends and insights in datasets.
-- **Machine Learning**: Building models with Scikit-Learn.
+- **Machine Learning**: Building and evaluating models with Scikit-Learn, including linear regression, logistic regression, and decision trees.
+- **Deep Learning**: Building and training neural networks with Keras.
 
 ---
 
@@ -59,6 +60,7 @@ Located in [`Cheat_Sheets/`](Cheat_Sheets/):
 - [Matplotlib Tutorials](https://matplotlib.org/stable/tutorials/index.html)
 - [Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html)
 - [Scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html)
+- [Keras Guides](https://keras.io/guides/)
 
 Dataset sources are credited in each workshop's own README.
 
